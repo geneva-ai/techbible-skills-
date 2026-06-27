@@ -1,4 +1,4 @@
-# TechBible Skills
+# Claude skills for founders
 
 Claude Desktop skills built by TechBible.ai for founders, ops leads, and enterprise AI teams.
 
